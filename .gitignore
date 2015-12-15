@@ -1,0 +1,19 @@
+#OS generated files ignored#
+###########
+.DS_Store
+*.jar
+*.war
+*.log
+*.home_IS_UNDEFINED
+.classpath
+.project
+.settings
+#.gitignore
+target
+bin
+forseti-fp.properties
+*.output_IS_UNDEFINED
+app.output_IS_UNDEFINED
+*.properties
+deploy
+deviceContext
